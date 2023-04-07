@@ -13,8 +13,8 @@ Feel free to contact me, I’d love to work with you to bring brilliant ideas to
 
 # Education
 ## Education Experience
-- B.Eng in Information Security, Shanghai Jiaotong University, China. 
-- B.Econ in Finance, Shanghai Jiaotong University, China.
+- 2020-2024 B.Eng in Information Security, Shanghai Jiaotong University, China. 
+- 2021-2024 B.Econ in Finance, Shanghai Jiaotong University, China.
 - Grades Overall: 90.61/100, GPA: 3.91/4.3, Rank: 1/89
 
 ## Academic Performance
