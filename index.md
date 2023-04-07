@@ -80,4 +80,4 @@ Studied the relationship between Chinese household housing prices and household 
 <!-- <a href="https://english.seiee.sjtu.edu.cn/"><img src="/images/logo_seiee.png" width="100" alt="SEIEE logo"/></a> -->
 <!-- <a href="https://www.acem.sjtu.edu.cn/en/"><img src="/images/logo_acem.png" width="100" alt="ACEM logo"/></a> -->
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=m&d=aXMlt1EyzYDcAVom4331bLIpglWR29-spstiUBy93D4'></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=aXMlt1EyzYDcAVom4331bLIpglWR29-spstiUBy93D4&cl=ffffff&w=a"></script>
