@@ -74,4 +74,10 @@ Studied the relationship between Chinese household housing prices and household 
 # Talks
 - 2023/03 I given a talk "Research on Image-Based Malware Homology Analysis" at Voice of Information Security-Young.
 
+<!-- # Related Affiliations -->
+<!-- <a href="http://en.sjtu.edu.cn"><img src="/assets/img/logo_sjtu.png" width="100" alt="SJTU logo" /></a> -->
+<!-- <a href="http://www.topsec.com.cn/"><img src="/assets/img/logo_topsec.png" width="100" alt="Topsec logo"/></a> -->
+<!-- <a href="https://english.seiee.sjtu.edu.cn/"><img src="/images/logo_seiee.png" width="100" alt="SEIEE logo"/></a> -->
+<!-- <a href="https://www.acem.sjtu.edu.cn/en/"><img src="/images/logo_acem.png" width="100" alt="ACEM logo"/></a> -->
+
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=m&d=aXMlt1EyzYDcAVom4331bLIpglWR29-spstiUBy93D4'></script>
