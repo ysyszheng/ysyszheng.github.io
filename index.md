@@ -57,12 +57,6 @@ A network sniffer software based on the Qt platform, mainly written in C++ langu
 
 Studied the relationship between Chinese household housing prices and household consumption. Using 5-period panel data from CFPS, including 24,653 homeowners and 537 renters. 
 
-<details>
-<summary>result image</summary>
-<img alt="wirecat demo" src="/assets/img/hp.png">
-</details>
-<br/>
-
 # Honors and Awards
 - 2022 The 8th China International College Students' 'Internet+' Innovation and Entrepreneurship Competition, Shanghai Division Gold Award
 - 2022 Shanghai Scholarship (1%)
